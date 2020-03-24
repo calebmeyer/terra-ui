@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///node_modules/terra-dialog/lib/terra-dev-site/doc/example/DialogDocCommon.module.scss"],"names":[],"mappings":"AAAA,gDAGI,YAAa,CACb,WAAY,CAJhB,sDAEI,aAEY","file":"207-b4925592867a0a5dc67d.css","sourcesContent":[":local {\n  .dialog-wrapper {\n    border: dashed;\n    height: 200px;\n    width: 350px;\n  }\n}\n"]}

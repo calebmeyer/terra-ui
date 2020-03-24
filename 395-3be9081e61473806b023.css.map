@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///src/terra-dev-site/icon/DeveloperActivityIcon.module.scss"],"names":[],"mappings":"AAAA,4CAGI,eAAgB,CAHpB,sDAEI,WACgB,CAHpB,sDAEI,UACgB","file":"395-3be9081e61473806b023.css","sourcesContent":[":local {\n  .icon {\n    float: right;\n    max-width: 400px;\n  }\n}\n"]}
